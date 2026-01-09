@@ -6,6 +6,3 @@ Practice
 Practice creating a company website 1
 
 
-
-Reference : 
-
