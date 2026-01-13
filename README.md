@@ -5,7 +5,7 @@ Practice
 회사홈페이지 만들기 연습 1   
 Practice creating a company website 1   
    
-### 가상회사 confetea   
+### 가상회사 grwind   
 카페용 커피머신을 취급하는 회사   
 Reference : https://lamarzoccokorea.co.kr/   
    
