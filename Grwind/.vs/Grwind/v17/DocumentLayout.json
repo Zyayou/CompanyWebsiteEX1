@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{0A7258C0-4AE4-4D8E-9D27-9196AD34C385}|Grwind.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0A7258C0-4AE4-4D8E-9D27-9196AD34C385}|Grwind.csproj|c:\\users\\user\\desktop\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\companywebsiteex1\\grwind\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0A7258C0-4AE4-4D8E-9D27-9196AD34C385}|Grwind.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0A7258C0-4AE4-4D8E-9D27-9196AD34C385}|Grwind.csproj|c:\\users\\user\\desktop\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\companywebsiteex1\\grwind\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0A7258C0-4AE4-4D8E-9D27-9196AD34C385}|Grwind.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -46,7 +50,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\CompanyWebsiteEX1\\Grwind\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -54,8 +58,7 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T14:54:28.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T14:54:28.069Z"
             },
             {
               "$type": "Document",
@@ -65,7 +68,7 @@
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\user\\Desktop\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\CompanyWebsiteEX1\\Grwind\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAB2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-16T14:54:51.531Z",
               "EditorCaption": ""
@@ -73,6 +76,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\CompanyWebsiteEX1\\Grwind\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\CompanyWebsiteEX1\\Grwind\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-21T06:09:25.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\CompanyWebsiteEX1\\Grwind\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -80,12 +95,11 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-16T14:54:37.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T14:54:37.766Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "About.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\CompanyWebsiteEX1\\Grwind\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
@@ -97,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Products.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\CompanyWebsiteEX1\\Grwind\\Views\\Home\\Products.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Products.cshtml",
@@ -109,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Partners.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\CompanyWebsiteEX1\\Grwind\\Views\\Home\\Partners.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Partners.cshtml",
@@ -121,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "News.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\CompanyWebsiteEX1\\Grwind\\Views\\Home\\News.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\News.cshtml",
@@ -133,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Support.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\uAC1C\uC778\uD504\uB85C\uC81D\uD2B8\\CompanyWebsiteEX1\\Grwind\\Views\\Home\\Support.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Support.cshtml",
