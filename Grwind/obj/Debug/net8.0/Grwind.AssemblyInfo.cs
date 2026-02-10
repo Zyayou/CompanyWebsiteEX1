@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Grwind")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ca1427e83d1121c7c32d7b031a8e7a3d3b28faa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afc588320f6ee7defdd033fc77e92eb736735764")]
 [assembly: System.Reflection.AssemblyProductAttribute("Grwind")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Grwind")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
