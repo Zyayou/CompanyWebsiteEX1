@@ -2,7 +2,7 @@
 
 namespace Grwind.Controllers
 {
-    public class NewsController1 : Controller
+    public class NewsController : Controller
     {
         public IActionResult Index()
         {

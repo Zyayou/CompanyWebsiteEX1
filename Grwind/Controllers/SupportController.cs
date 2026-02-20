@@ -2,7 +2,7 @@
 
 namespace Grwind.Controllers
 {
-    public class SupportController1 : Controller
+    public class SupportController : Controller
     {
         public IActionResult Index()
         {

@@ -2,7 +2,7 @@
 
 namespace Grwind.Controllers
 {
-    public class PartnersController1 : Controller
+    public class PartnersController : Controller
     {
         public IActionResult Index()
         {
